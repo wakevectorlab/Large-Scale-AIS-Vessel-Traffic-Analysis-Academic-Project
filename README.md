@@ -150,4 +150,5 @@ Useful extensions would include multi-day AIS analysis, geographic port/anchorag
 
 ---
 
-*This README summarises a completed **2026 academic assignment** on Hadoop-based maritime data processing. Numerical findings and methodology are taken from the assignment report; it is not a claim of production deployment or a validated congestion-prediction system.*
+*This README summarises a completed **2026 academic assignment** on Hadoop-based maritime data processing. Numerical findings and methodology are taken from the assignment report; it is not a claim of production deployment or a validated congestion-prediction system.
+Project by Mustafa Efe Yakın · MSc Data Analytics ·*
