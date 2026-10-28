@@ -5,6 +5,7 @@
 **Academic project · 2026**  
 **Technologies:** Apache Hadoop · HDFS · YARN · Hadoop Streaming MapReduce · Apache Hive · Python · pandas · scikit-learn · Jupyter Notebook · Cloudera (Linux virtual machine)
 
+Project files: https://github.com/myakin0/AIS-Cloudera-Project
 > **Project in brief:** Processed **7,337,208 AIS observations** from a single day of U.S. vessel traffic data, compared Python-based Hadoop Streaming MapReduce with Hive aggregations, and grouped **15,341 vessels** into three movement-behaviour clusters.
 
 ## Overview
