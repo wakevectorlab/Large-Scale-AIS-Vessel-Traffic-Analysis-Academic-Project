@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34080274/README.md)
+
 # Large-Scale AIS Vessel Traffic Analysis
 
 **Maritime big-data processing and vessel-behaviour clustering**  
