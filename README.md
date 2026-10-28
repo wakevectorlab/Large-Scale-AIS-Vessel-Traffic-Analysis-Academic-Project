@@ -11,7 +11,7 @@
 
 Automatic Identification System (AIS) data contains timestamped information about vessel positions, speed, course, and physical characteristics. At national scale, even a single day produces millions of observations.
 
-This project explores the question:
+This academic project explored the question:
 
 **How can large-scale AIS vessel traffic data be stored, processed, and analysed using Hadoop technologies to support vessel-behaviour and congestion-related analysis?**
 
